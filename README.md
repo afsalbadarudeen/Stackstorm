@@ -5,3 +5,4 @@ hope you are doing well
 good morning.
 how are you doing?
 where are you from
+i am from los angeles.
